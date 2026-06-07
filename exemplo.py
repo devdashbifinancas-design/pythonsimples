@@ -1,8 +1,13 @@
 # Meu primeiro programa em Python
+# Autor: marcelo marcos
+
+print("Autor: marcelo marcos")
+print("Bem-vindo ao programa de avaliação de filmes!")
 
 nome = input("Digite seu nome: ")
 
 print("Olá,", nome + "! Seja bem-vindo ao Python.")
+
 # Sistema simples de avaliação de filmes
 
 filme = input("Digite o nome do filme: ")
