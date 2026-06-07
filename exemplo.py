@@ -17,3 +17,4 @@ elif nota >= 6:
     print("Bom filme!")
 else:
     print("Filme regular ou ruim.")
+    print("curso")
