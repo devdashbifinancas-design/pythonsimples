@@ -1,5 +1,7 @@
 # pythonsimples
 
+Autor: marcelo marcos
+
 Pequeno repositório de exemplo em Python.
 
 ## Estrutura
